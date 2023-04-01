@@ -1,0 +1,25 @@
+{
+  "name": "javascript_tests_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searles9/JavaScript_Tests_Mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/searles9/JavaScript_Tests_Mocha/issues"
+  },
+  "homepage": "https://github.com/searles9/JavaScript_Tests_Mocha#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
